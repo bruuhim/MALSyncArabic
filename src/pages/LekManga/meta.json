@@ -1,0 +1,6 @@
+{
+  "search": "https://lekmanga.net/?s={searchtermPlus}",
+  "urls": {
+    "match": ["*://lekmanga.net/*", "*://www.lekmanga.net/*"]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "test": [
+    {
+      "title": "LekManga",
+      "url": "https://lekmanga.net/manga/example/chapter-1",
+      "expected": {
+        "sync": true,
+        "overview": false
+      }
+    },
+    {
+      "url": "https://lekmanga.net/manga/example",
+      "expected": {
+        "sync": false,
+        "overview": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "test": [
+    {
+      "title": "OlympusStaff",
+      "url": "https://olympustaff.com/manga/example/chapter-1",
+      "expected": {
+        "sync": true,
+        "overview": false
+      }
+    },
+    {
+      "url": "https://olympustaff.com/manga/example",
+      "expected": {
+        "sync": false,
+        "overview": true
+      }
+    }
+  ]
+}

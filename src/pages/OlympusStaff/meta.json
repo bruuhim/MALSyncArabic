@@ -1,0 +1,6 @@
+{
+  "search": "https://olympustaff.com/?s={searchtermPlus}",
+  "urls": {
+    "match": ["*://olympustaff.com/*"]
+  }
+}
